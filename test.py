@@ -42,5 +42,4 @@ action_logprob = model.action_probability(obs, actions=action, logp=True)
 assert np.allclose(action_prob, np.exp(action_logprob)), (action_prob, action_logprob)
 
 assert reward_sum > 0.9 * n_trials
-
-
+print("Test OK!")
