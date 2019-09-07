@@ -7,7 +7,7 @@ OpenAI Gym environment created following [Gym Docs](https://github.com/openai/gy
 To install the Gym environment:
 
 ```bash
-cd gym-demo
+cd OpenAI-Gym-demo-environment/
 pip install -e .
 ```
 
