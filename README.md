@@ -9,6 +9,8 @@ To install gym-demo environment:
 ```bash
 cd OpenAI-Gym-demo-environment/
 pip install -e .
+
+pip show gym-demp
 ```
 
 # Test gym-demo environment on Stable Baselines
