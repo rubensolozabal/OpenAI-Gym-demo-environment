@@ -10,7 +10,7 @@ To install gym-demo environment:
 cd OpenAI-Gym-demo-environment/
 pip install -e .
 
-pip show gym-demp
+pip show gym-demo
 ```
 
 # Test gym-demo environment on Stable Baselines
