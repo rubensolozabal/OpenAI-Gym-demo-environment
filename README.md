@@ -1,4 +1,4 @@
-# OpenAI Gym-demo environment
+# Simple OpenAI gym-demo environment
 
 OpenAI Gym environment created following [Gym Docs](https://github.com/openai/gym/blob/master/docs/creating-environments.md). For testing purposes, we use a custom environment named IdentityEnv defined in [this file](https://github.com/hill-a/stable-baselines/blob/master/stable_baselines/common/identity_env.py).
 
